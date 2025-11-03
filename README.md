@@ -1,19 +1,18 @@
-<h1>Brian Wrobel 
+# Brian Wrobel 
 
-<h2>Cybersecurity Projects:</h2>
+## 🔒 Cybersecurity Projects:
 
-  - [Azure SIEM Lab](https://github.com/Dubss2k/azure-sentinel-lab)
+  * [Azure SIEM Lab](https://github.com/Dubss2k/azure-sentinel-lab)
+
+## 🛡️ Certifications
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **ITIL v4 Foundation**
+- **Computer Support Technician**
 
 
-<h2>🛡️ Certifications</h2>
-<p><b>CompTIA Security+</b>
-<p><b>CompTIA Network+</b>
-<p><b>CompTIA A+</b>
-<p><b>ITIL v4 Foundation</b>
-<p><b>Computer Support Technician</b>
-
-
-<h2> Connect with me:</h2>
+## 🔗 Connect with me:
 
 [<img align="left" alt="Brian Wrobel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
