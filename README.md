@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel Lab](https://github.com/Dubss2k/azure-sentinel-lab)
+  - [Azure SIEM Lab](https://github.com/Dubss2k/azure-sentinel-lab)
 
 
 <h2>🛡️ Certifications</h2>
