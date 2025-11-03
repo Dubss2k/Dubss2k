@@ -6,9 +6,9 @@
 
 
 <h2>🛡️ Certifications</h2>
-<p><b>CompTIA A+</b>
-<p><b>CompTIA Network+</b>
 <p><b>CompTIA Security+</b>
+<p><b>CompTIA Network+</b>
+<p><b>CompTIA A+</b>
 <p><b>ITIL v4 Foundation</b>
 <p><b>Computer Support Technician</b>
 
