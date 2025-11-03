@@ -1,4 +1,4 @@
-<h1>Hi, Brian Wrobel 
+<h1>Brian Wrobel 
 
 <h2>Cybersecurity Projects:</h2>
 
